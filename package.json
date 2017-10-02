@@ -1,0 +1,19 @@
+{
+  "name": "testreel-nightwatch-recoder",
+  "version": "1.0.0",
+  "description": "Modified nightwatch-record for specific usage",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ViljarVoidula/testreel-nightwatch-recoder.git"
+  },
+  "author": "Viljar Võidula",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ViljarVoidula/testreel-nightwatch-recoder/issues"
+  },
+  "homepage": "https://github.com/ViljarVoidula/testreel-nightwatch-recoder#readme"
+}
